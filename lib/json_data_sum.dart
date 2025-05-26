@@ -16,6 +16,7 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
   List<Match> teamMatches = [];
   List<Match> homeTeamMatches = [];
   List<Match> awayTeamMatches = [];
+  List<Match> currentMatches = [];
 
   @override
   void initState() {
@@ -27,10 +28,8 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
     final String jsonString = await rootBundle.loadString(
       'assets/besta-jason.json',
     );
-    print(json);
 
     final List<dynamic> jsonList = json.decode(jsonString);
-    print(jsonList);
 
     List<Match> matches = jsonList.map((json) => Match.fromJson(json)).toList();
 
@@ -52,20 +51,43 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
           matches.where((m) {
             return m.awayTeam.toLowerCase().trim() == sel;
           }).toList();
-      print(awayTeamMatches);
-      print(homeTeamMatches);
+    });
+    currentMatches = teamMatches;
+  }
+
+  void homeGames() {
+    setState(() {
+      currentMatches = homeTeamMatches;
+    });
+  }
+
+  void awayGames() {
+    setState(() {
+      currentMatches = awayTeamMatches;
     });
   }
 
   @override
   Widget build(BuildContext context) {
     print('Filtered matches: ${teamMatches.length}');
+    print('Away ${awayTeamMatches.length}');
+    print('Home ${homeTeamMatches.length}');
     return Scaffold(
       appBar: AppBar(
         title: Row(
           children: [
-            Locationbutton(locationText: 'Heimaleikir', onTap: () {}),
-            Locationbutton(locationText: 'Útileikir', onTap: () {}),
+            Locationbutton(
+              locationText: 'Heimaleikir',
+              onTap: () {
+                homeGames();
+              },
+            ),
+            Locationbutton(
+              locationText: 'Útileikir',
+              onTap: () {
+                awayGames();
+              },
+            ),
           ],
         ),
       ),
@@ -82,12 +104,12 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
         ),
         alignment: Alignment.center,
         child:
-            teamMatches.isEmpty
+            currentMatches.isEmpty
                 ? const Center(child: CircularProgressIndicator())
                 : ListView.builder(
-                  itemCount: teamMatches.length,
+                  itemCount: currentMatches.length,
                   itemBuilder: (context, index) {
-                    final match = teamMatches[index];
+                    final match = currentMatches[index];
                     return ListTile(
                       title: Text(
                         '${match.homeTeam} vs ${match.awayTeam}',
