@@ -1,0 +1,926 @@
+[
+  {
+    "Date": "5.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "6.4.2025",
+    "Time": "14:00",
+    "Hometeam": "Valur",
+    "Awayteam": "Vestri",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "6.4.2025",
+    "Time": "16:15",
+    "Hometeam": "KA",
+    "Awayteam": "KR",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "6.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "iA",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "7.4.2025",
+    "Time": "18:00",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "iBV",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "7.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "FH",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "13.4.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "FH",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "13.4.2025",
+    "Time": "17:00",
+    "Hometeam": "Afturelding",
+    "Awayteam": "iBV",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "13.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "KA",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "13.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "14.4.2025",
+    "Time": "19:15",
+    "Hometeam": "KR",
+    "Awayteam": "Valur",
+    "PlayingField": "AVIS vollurinn"
+  },
+  {
+    "Date": "14.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "iA",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "23.4.2025",
+    "Time": "18:00",
+    "Hometeam": "iA",
+    "Awayteam": "Vestri",
+    "PlayingField": "Akranesvollurin"
+  },
+  {
+    "Date": "23.4.2025",
+    "Time": "18:00",
+    "Hometeam": "FH",
+    "Awayteam": "KR",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "23.4.2025",
+    "Time": "18:00",
+    "Hometeam": "Valur",
+    "Awayteam": "KA",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "23.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "24.4.2025",
+    "Time": "16:00",
+    "Hometeam": "iBV",
+    "Awayteam": "Fram",
+    "PlayingField": "thorsvollur Vey"
+  },
+  {
+    "Date": "24.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Afturelding",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "27.4.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "27.4.2025",
+    "Time": "16:15",
+    "Hometeam": "KA",
+    "Awayteam": "FH",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "27.4.2025",
+    "Time": "19:15",
+    "Hometeam": "KR",
+    "Awayteam": "iA",
+    "PlayingField": "AVIS vollurinn"
+  },
+  {
+    "Date": "28.4.2025",
+    "Time": "17:45",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "iBV",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "28.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "28.4.2025",
+    "Time": "19:15",
+    "Hometeam": "Valur",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Valsvollur"
+  },
+  {
+    "Date": "4.5.2025",
+    "Time": "14:00",
+    "Hometeam": "iBV",
+    "Awayteam": "Vestri",
+    "PlayingField": "thorsvollur Vey"
+  },
+  {
+    "Date": "4.5.2025",
+    "Time": "17:00",
+    "Hometeam": "iA",
+    "Awayteam": "KA",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "4.5.2025",
+    "Time": "19:15",
+    "Hometeam": "FH",
+    "Awayteam": "Valur",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "5.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "Fram",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "5.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Afturelding",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "5.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "KR",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "10.5.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "10.5.2025",
+    "Time": "19:00",
+    "Hometeam": "KR",
+    "Awayteam": "iBV",
+    "PlayingField": "AVIS vollurinn"
+  },
+  {
+    "Date": "10.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "Fram",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "10.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Valur",
+    "Awayteam": "iA",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "11.5.2025",
+    "Time": "17:30",
+    "Hometeam": "KA",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "11.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "FH",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "18.5.2025",
+    "Time": "14:00",
+    "Hometeam": "Fram",
+    "Awayteam": "Vestri",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "18.5.2025",
+    "Time": "14:00",
+    "Hometeam": "iBV",
+    "Awayteam": "KA",
+    "PlayingField": "thorsvollur Vey"
+  },
+  {
+    "Date": "18.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Afturelding",
+    "Awayteam": "KR",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "19.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "Valur",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "19.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "19.5.2025",
+    "Time": "19:15",
+    "Hometeam": "iA",
+    "Awayteam": "FH",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "23.5.2025",
+    "Time": "19:30",
+    "Hometeam": "KR",
+    "Awayteam": "Fram",
+    "PlayingField": "AVIS vollurinn"
+  },
+  {
+    "Date": "24.5.2025",
+    "Time": "17:00",
+    "Hometeam": "KA",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "24.5.2025",
+    "Time": "17:00",
+    "Hometeam": "Valur",
+    "Awayteam": "iBV",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "24.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "iA",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "24.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Vestri",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "25.5.2025",
+    "Time": "19:15",
+    "Hometeam": "FH",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "29.5.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "29.5.2025",
+    "Time": "16:15",
+    "Hometeam": "Afturelding",
+    "Awayteam": "Valur",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "29.5.2025",
+    "Time": "16:15",
+    "Hometeam": "Fram",
+    "Awayteam": "KA",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "29.5.2025",
+    "Time": "16:15",
+    "Hometeam": "iBV",
+    "Awayteam": "FH",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "29.5.2025",
+    "Time": "16:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "iA",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "29.5.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "KR",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "1.6.2025",
+    "Time": "14:00",
+    "Hometeam": "KR",
+    "Awayteam": "Vestri",
+    "PlayingField": "Meistaravellir"
+  },
+  {
+    "Date": "1.6.2025",
+    "Time": "17:00",
+    "Hometeam": "iA",
+    "Awayteam": "iBV",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "1.6.2025",
+    "Time": "17:00",
+    "Hometeam": "KA",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "1.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Valur",
+    "Awayteam": "Fram",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "1.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "1.6.2025",
+    "Time": "19:15",
+    "Hometeam": "FH",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "15.6.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "KA",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "15.6.2025",
+    "Time": "17:00",
+    "Hometeam": "iBV",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "15.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "FH",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "15.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "KR",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "15.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Afturelding",
+    "Awayteam": "iA",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "16.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "Valur",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "22.6.2025",
+    "Time": "14:00",
+    "Hometeam": "FH",
+    "Awayteam": "Vestri",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "22.6.2025",
+    "Time": "19:15",
+    "Hometeam": "iA",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "22.6.2025",
+    "Time": "19:15",
+    "Hometeam": "KA",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "22.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "Fram",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "23.6.2025",
+    "Time": "18:00",
+    "Hometeam": "iBV",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "23.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Valur",
+    "Awayteam": "KR",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "26.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "28.6.2025",
+    "Time": "17:00",
+    "Hometeam": "KA",
+    "Awayteam": "Valur",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "29.6.2025",
+    "Time": "17:00",
+    "Hometeam": "Fram",
+    "Awayteam": "iBV",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "29.6.2025",
+    "Time": "17:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "iA",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "29.6.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "29.6.2025",
+    "Time": "19:15",
+    "Hometeam": "KR",
+    "Awayteam": "FH",
+    "PlayingField": "Meistaravellir"
+  },
+  {
+    "Date": "3.7.2025",
+    "Time": "19:15",
+    "Hometeam": "Afturelding",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "5.7.2025",
+    "Time": "14:00",
+    "Hometeam": "iA",
+    "Awayteam": "Fram",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "5.7.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "Valur",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "5.7.2025",
+    "Time": "16:00",
+    "Hometeam": "iBV",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "6.7.2025",
+    "Time": "16:00",
+    "Hometeam": "KR",
+    "Awayteam": "KA",
+    "PlayingField": "Meistaravellir"
+  },
+  {
+    "Date": "7.7.2025",
+    "Time": "19:15",
+    "Hometeam": "FH",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "14.7.2025",
+    "Time": "18:00",
+    "Hometeam": "iBV",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "14.7.2025",
+    "Time": "19:15",
+    "Hometeam": "iA",
+    "Awayteam": "KR",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "14.7.2025",
+    "Time": "19:15",
+    "Hometeam": "Afturelding",
+    "Awayteam": "Fram",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "19.7.2025",
+    "Time": "14:00",
+    "Hometeam": "Breidablik",
+    "Awayteam": "Vestri",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "20.7.2025",
+    "Time": "17:00",
+    "Hometeam": "FH",
+    "Awayteam": "KA",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "20.7.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "Valur",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "27.7.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "iBV",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "27.7.2025",
+    "Time": "19:15",
+    "Hometeam": "KR",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Meistaravellir"
+  },
+  {
+    "Date": "27.7.2025",
+    "Time": "19:15",
+    "Hometeam": "Valur",
+    "Awayteam": "FH",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "27.7.2025",
+    "Time": "19:15",
+    "Hometeam": "KA",
+    "Awayteam": "iA",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "27.7.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "28.7.2025",
+    "Time": "19:15",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "2.8.2025",
+    "Time": "14:00",
+    "Hometeam": "iBV",
+    "Awayteam": "KR",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "5.8.2025",
+    "Time": "19:15",
+    "Hometeam": "FH",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "5.8.2025",
+    "Time": "19:15",
+    "Hometeam": "iA",
+    "Awayteam": "Valur",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "5.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "KA",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "6.8.2025",
+    "Time": "18:00",
+    "Hometeam": "Afturelding",
+    "Awayteam": "Vestri",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "6.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "10.8.2025",
+    "Time": "14:00",
+    "Hometeam": "KA",
+    "Awayteam": "iBV",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "10.8.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "Fram",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "10.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "10.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Valur",
+    "Awayteam": "Breidablik",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "11.8.2025",
+    "Time": "19:15",
+    "Hometeam": "KR",
+    "Awayteam": "Afturelding",
+    "PlayingField": "Meistaravellir"
+  },
+  {
+    "Date": "11.8.2025",
+    "Time": "19:15",
+    "Hometeam": "FH",
+    "Awayteam": "iA",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "17.8.2025",
+    "Time": "14:00",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "Vestri",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "17.8.2025",
+    "Time": "14:00",
+    "Hometeam": "iBV",
+    "Awayteam": "Valur",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "17.8.2025",
+    "Time": "17:00",
+    "Hometeam": "Afturelding",
+    "Awayteam": "KA",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "17.8.2025",
+    "Time": "18:00",
+    "Hometeam": "iA",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "17.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Breidablik",
+    "Awayteam": "FH",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "18.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "KR",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "24.8.2025",
+    "Time": "14:00",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "Vestri",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "24.8.2025",
+    "Time": "17:00",
+    "Hometeam": "KA",
+    "Awayteam": "Fram",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "24.8.2025",
+    "Time": "17:00",
+    "Hometeam": "iA",
+    "Awayteam": "Breidablik",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "24.8.2025",
+    "Time": "18:00",
+    "Hometeam": "FH",
+    "Awayteam": "iBV",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "25.8.2025",
+    "Time": "18:00",
+    "Hometeam": "KR",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "Meistaravellir"
+  },
+  {
+    "Date": "25.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Valur",
+    "Awayteam": "Afturelding",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  },
+  {
+    "Date": "31.8.2025",
+    "Time": "14:00",
+    "Hometeam": "Vestri",
+    "Awayteam": "KR",
+    "PlayingField": "Kerecisvollurinn"
+  },
+  {
+    "Date": "31.8.2025",
+    "Time": "14:00",
+    "Hometeam": "iBV",
+    "Awayteam": "iA",
+    "PlayingField": "Hasteinsvollur"
+  },
+  {
+    "Date": "31.8.2025",
+    "Time": "17:00",
+    "Hometeam": "Afturelding",
+    "Awayteam": "FH",
+    "PlayingField": "Malbikstodin ad Varma"
+  },
+  {
+    "Date": "31.8.2025",
+    "Time": "17:00",
+    "Hometeam": "Stjarnan",
+    "Awayteam": "KA",
+    "PlayingField": "Samsungvollurinn"
+  },
+  {
+    "Date": "31.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Fram",
+    "Awayteam": "Valur",
+    "PlayingField": "Lambhagavollurinn"
+  },
+  {
+    "Date": "31.8.2025",
+    "Time": "19:15",
+    "Hometeam": "Vikingur R.",
+    "Awayteam": "Breidablik",
+    "PlayingField": "Vikingsvollur"
+  },
+  {
+    "Date": "14.9.2025",
+    "Time": "14:00",
+    "Hometeam": "FH",
+    "Awayteam": "Fram",
+    "PlayingField": "Kaplakrikavollur"
+  },
+  {
+    "Date": "14.9.2025",
+    "Time": "14:00",
+    "Hometeam": "KR",
+    "Awayteam": "Vikingur R.",
+    "PlayingField": "Meistaravellir"
+  },
+  {
+    "Date": "14.9.2025",
+    "Time": "14:00",
+    "Hometeam": "iA",
+    "Awayteam": "Afturelding",
+    "PlayingField": "ELKEM vollurinn"
+  },
+  {
+    "Date": "14.9.2025",
+    "Time": "14:00",
+    "Hometeam": "Breidablik",
+    "Awayteam": "iBV",
+    "PlayingField": "Kopavogsvollur"
+  },
+  {
+    "Date": "14.9.2025",
+    "Time": "14:00",
+    "Hometeam": "KA",
+    "Awayteam": "Vestri",
+    "PlayingField": "Greifavollurinn"
+  },
+  {
+    "Date": "14.9.2025",
+    "Time": "14:00",
+    "Hometeam": "Valur",
+    "Awayteam": "Stjarnan",
+    "PlayingField": "N1-vollurinn Hlidarenda"
+  }
+]
