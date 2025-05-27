@@ -3,8 +3,13 @@ import 'package:fobo_app/json_data_sum.dart';
 
 class GameScreen extends StatefulWidget {
   final String chosenTeam;
+  final VoidCallback goToFinal;
 
-  const GameScreen({super.key, required this.chosenTeam});
+  const GameScreen({
+    super.key,
+    required this.chosenTeam,
+    required this.goToFinal,
+  });
 
   @override
   State<GameScreen> createState() {
@@ -36,7 +41,10 @@ class _GameScreenState extends State<GameScreen> {
           ),
         ),
         alignment: Alignment.center,
-        child: MatchListByTeam(selectedTeam: widget.chosenTeam),
+        child: MatchListByTeam(
+          selectedTeam: widget.chosenTeam,
+          goToFinal: () {},
+        ),
       ),
     );
   }

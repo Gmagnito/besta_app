@@ -5,8 +5,14 @@ import 'package:fobo_app/data._sumary.dart';
 import 'package:fobo_app/listView.dart';
 
 class MatchListByTeam extends StatefulWidget {
+  final VoidCallback goToFinal;
+
   final String selectedTeam;
-  const MatchListByTeam({super.key, required this.selectedTeam});
+  const MatchListByTeam({
+    super.key,
+    required this.selectedTeam,
+    required this.goToFinal,
+  });
 
   @override
   State<MatchListByTeam> createState() => _MatchListByTeamState();
@@ -123,7 +129,7 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
                         ),
                       ),
                       onTap: () {
-                        print('TextTileClicked');
+                        widget.goToFinal();
                       },
                     );
                   },

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:fobo_app/final_game_screen.dart';
 import 'package:fobo_app/gameScreen.dart';
-import 'start_screen.dart';
+import 'package:fobo_app/start_screen.dart';
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
@@ -15,7 +16,13 @@ class _FoboAppState extends State<MyApp> {
 
   void goToGame(String selectedTeam) {
     setState(() {
-      activeScreen = GameScreen(chosenTeam: selectedTeam);
+      activeScreen = GameScreen(chosenTeam: selectedTeam, goToFinal: goToFinal);
+    });
+  }
+
+  void goToFinal() {
+    setState(() {
+      activeScreen = const FinalGameScreen();
     });
   }
 
