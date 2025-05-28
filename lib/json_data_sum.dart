@@ -5,13 +5,13 @@ import 'package:fobo_app/data._sumary.dart';
 import 'package:fobo_app/listView.dart';
 
 class MatchListByTeam extends StatefulWidget {
-  final VoidCallback goToFinal;
+  final void Function(FoMatch) onGameFinished;
 
   final String selectedTeam;
   const MatchListByTeam({
     super.key,
     required this.selectedTeam,
-    required this.goToFinal,
+    required this.onGameFinished,
   });
 
   @override
@@ -19,10 +19,15 @@ class MatchListByTeam extends StatefulWidget {
 }
 
 class _MatchListByTeamState extends State<MatchListByTeam> {
-  List<Match> teamMatches = [];
-  List<Match> homeTeamMatches = [];
-  List<Match> awayTeamMatches = [];
-  List<Match> currentMatches = [];
+  List<FoMatch> teamMatches = [];
+  List<FoMatch> homeTeamMatches = [];
+  List<FoMatch> awayTeamMatches = [];
+  List<FoMatch> currentMatches = [];
+
+  void _handleTileTap(FoMatch tappedMatch) {
+    print("GameScreen: _handleTileTap called, triggering onGameFinished.");
+    widget.onGameFinished(tappedMatch);
+  }
 
   @override
   void initState() {
@@ -37,7 +42,8 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
 
     final List<dynamic> jsonList = json.decode(jsonString);
 
-    List<Match> matches = jsonList.map((json) => Match.fromJson(json)).toList();
+    List<FoMatch> matches =
+        jsonList.map((json) => FoMatch.fromJson(json)).toList();
 
     setState(() {
       final sel = widget.selectedTeam.toLowerCase().trim();
@@ -119,18 +125,16 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
                     return ListTile(
                       title: Text(
                         '${match.homeTeam} vs ${match.awayTeam}',
-                        style: TextStyle(fontSize: 20, color: Colors.white),
+                        style: TextStyle(fontSize: 25, color: Colors.white),
                       ),
                       subtitle: Text(
                         '${match.field} • ${match.date} • ${match.time}',
                         style: TextStyle(
                           fontSize: 17,
-                          color: const Color.fromARGB(255, 63, 36, 36),
+                          color: const Color.fromARGB(255, 228, 199, 199),
                         ),
                       ),
-                      onTap: () {
-                        widget.goToFinal();
-                      },
+                      onTap: () => _handleTileTap(match),
                     );
                   },
                 ),

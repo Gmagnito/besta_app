@@ -1,14 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:fobo_app/json_data_sum.dart';
+import 'package:fobo_app/listView.dart';
 
 class GameScreen extends StatefulWidget {
   final String chosenTeam;
-  final VoidCallback goToFinal;
+  final void Function(FoMatch) onGamefinished;
 
   const GameScreen({
     super.key,
     required this.chosenTeam,
-    required this.goToFinal,
+    required this.onGamefinished,
   });
 
   @override
@@ -43,7 +44,7 @@ class _GameScreenState extends State<GameScreen> {
         alignment: Alignment.center,
         child: MatchListByTeam(
           selectedTeam: widget.chosenTeam,
-          goToFinal: () {},
+          onGameFinished: widget.onGamefinished,
         ),
       ),
     );

@@ -1,14 +1,14 @@
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 
-class Match {
+class FoMatch {
   final String date;
   final String time;
   final String homeTeam;
   final String awayTeam;
   final String field;
 
-  Match({
+  FoMatch({
     required this.date,
     required this.time,
     required this.homeTeam,
@@ -16,8 +16,8 @@ class Match {
     required this.field,
   });
 
-  factory Match.fromJson(Map<String, dynamic> json) {
-    return Match(
+  factory FoMatch.fromJson(Map<String, dynamic> json) {
+    return FoMatch(
       date: json['Date'] as String? ?? 'Unknown',
       time: json['Time'] as String? ?? 'Unknown',
       homeTeam: json['Hometeam'] as String? ?? 'Unknown',
