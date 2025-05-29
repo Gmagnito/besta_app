@@ -19,18 +19,19 @@ class ChoseScreen extends StatelessWidget {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Text(
-                'DAGSKRÁ BESTU DEILDARINNAR',
-                style: TextStyle(fontSize: 30, color: Colors.white),
-                textAlign: TextAlign.center,
+              Image.asset(
+                'assets/Besta.png',
+                height: 150,
+                width: 300,
+                fit: BoxFit.contain,
               ),
               SizedBox(height: 40),
               ...bestaTeams.allteams.map((team) {
                 return Padding(
                   padding: const EdgeInsets.symmetric(vertical: 8),
                   child: SizedBox(
-                    height: 60,
-                    width: double.infinity,
+                    height: 200,
+                    width: 200,
                     child: Teambutton(
                       answerText: team,
                       onTap: () {

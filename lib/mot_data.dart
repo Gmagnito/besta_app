@@ -13,7 +13,7 @@ class BestaTeams extends Teams {
           'Fram',
           'IA',
           'IBV',
-          'Ka',
+          'KA',
           'KR',
           'Stjarnan',
           'Valur',

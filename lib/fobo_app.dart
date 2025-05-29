@@ -24,9 +24,30 @@ class _FoboAppState extends State<MyApp> {
     });
   }
 
+  void backToGameScreen() {
+    setState(() {
+      activeScreen = GameScreen(
+        chosenTeam: selectedTeam,
+        onGamefinished: goToFinal,
+      );
+    });
+  }
+
   void goToFinal(FoMatch matchData) {
     setState(() {
-      activeScreen = FinalGameScreen(SelectedMatch: matchData);
+      activeScreen = FinalGameScreen(
+        SelectedMatch: matchData,
+        OnBackToGameScreen: backToGame,
+      );
+    });
+  }
+
+  void backToGame() {
+    setState(() {
+      activeScreen = GameScreen(
+        chosenTeam: selectedTeam,
+        onGamefinished: goToFinal,
+      );
     });
   }
 

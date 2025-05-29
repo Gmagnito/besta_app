@@ -10,13 +10,19 @@ class Teambutton extends StatelessWidget {
     return ElevatedButton(
       onPressed: onTap,
       style: ElevatedButton.styleFrom(
-        padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 40),
+        padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 10),
         backgroundColor: const Color.fromARGB(255, 143, 145, 243),
         foregroundColor: Colors.white,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(40)),
         shadowColor: const Color.fromARGB(255, 39, 15, 104),
+        fixedSize: Size(200, 200),
       ),
-      child: Image.asset('assets/$answerText.png', width: 400),
+      child: Image.asset(
+        'assets/$answerText.png',
+        height: 180,
+        width: 180,
+        fit: BoxFit.contain,
+      ),
     );
   }
 }

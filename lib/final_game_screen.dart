@@ -1,11 +1,16 @@
 import 'package:flutter/material.dart';
 
 import 'package:fobo_app/listView.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class FinalGameScreen extends StatelessWidget {
   final FoMatch SelectedMatch;
-  const FinalGameScreen({required this.SelectedMatch, super.key});
+  final VoidCallback OnBackToGameScreen;
+
+  const FinalGameScreen({
+    required this.SelectedMatch,
+    required this.OnBackToGameScreen,
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -150,7 +155,9 @@ class FinalGameScreen extends StatelessWidget {
                 width: 30,
                 height: 30,
                 child: ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    OnBackToGameScreen;
+                  },
                   style: ElevatedButton.styleFrom(
                     fixedSize: Size(30, 30),
                     padding: EdgeInsets.zero,
