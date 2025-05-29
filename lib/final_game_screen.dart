@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:fobo_app/listView.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class FinalGameScreen extends StatelessWidget {
   final FoMatch SelectedMatch;
@@ -13,25 +14,15 @@ class FinalGameScreen extends StatelessWidget {
         padding: EdgeInsets.all(20.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            const Text(
-              'LEIKUR Í BESTU DEILDINNI:',
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontSize: 28,
-                color: Colors.white,
-                fontWeight: FontWeight.bold,
-                shadows: [
-                  Shadow(
-                    blurRadius: 3.0,
-                    color: Color.fromRGBO(0, 0, 0, 0.3),
-                    offset: Offset(2.0, 2.0),
-                  ),
-                ],
-              ),
+            Image.asset(
+              'assets/Besta.png',
+              height: 150,
+              width: 300,
+              fit: BoxFit.contain,
             ),
-            SizedBox(height: 40),
+            SizedBox(height: 10),
             Card(
               margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 15),
               elevation: 8,
@@ -116,7 +107,8 @@ class FinalGameScreen extends StatelessWidget {
                       textAlign: TextAlign.center,
                       style: const TextStyle(
                         fontSize: 18,
-                        color: Colors.black54,
+                        fontWeight: FontWeight.w600,
+                        color: Color.fromARGB(164, 7, 5, 29),
                       ),
                     ),
                     SizedBox(height: 60),
@@ -139,9 +131,31 @@ class FinalGameScreen extends StatelessWidget {
                         ),
                         shadowColor: const Color.fromARGB(255, 86, 52, 179),
                       ),
-                      child: Text('KAUPA MIÐA'),
+                      child: Text(
+                        'KAUPA MIÐA',
+                        style: TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.w500,
+                          color: Colors.white,
+                        ),
+                      ),
                     ),
                   ],
+                ),
+              ),
+            ),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: SizedBox(
+                width: 30,
+                height: 30,
+                child: ElevatedButton(
+                  onPressed: () {},
+                  style: ElevatedButton.styleFrom(
+                    fixedSize: Size(30, 30),
+                    padding: EdgeInsets.zero,
+                  ),
+                  child: const Icon(Icons.arrow_back, size: 20),
                 ),
               ),
             ),
