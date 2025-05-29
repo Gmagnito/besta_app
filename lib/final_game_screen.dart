@@ -60,8 +60,8 @@ class FinalGameScreen extends StatelessWidget {
                           children: [
                             Image.asset(
                               'assets/${SelectedMatch.homeTeam}.png',
-                              width: 80,
-                              height: 80,
+                              width: 90,
+                              height: 90,
                               fit: BoxFit.contain,
                             ),
                             const SizedBox(height: 8),
@@ -90,8 +90,8 @@ class FinalGameScreen extends StatelessWidget {
                           children: [
                             Image.asset(
                               'assets/${SelectedMatch.awayTeam}.png',
-                              width: 80,
-                              height: 80,
+                              width: 90,
+                              height: 90,
                               fit: BoxFit.contain,
                             ),
                             const SizedBox(height: 8),
