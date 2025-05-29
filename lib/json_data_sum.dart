@@ -125,12 +125,18 @@ class _MatchListByTeamState extends State<MatchListByTeam> {
                     return ListTile(
                       title: Text(
                         '${match.homeTeam} vs ${match.awayTeam}',
-                        style: TextStyle(fontSize: 25, color: Colors.white),
+                        style: TextStyle(
+                          fontSize: 25,
+                          fontWeight: FontWeight.w600,
+                          color: Colors.white,
+                        ),
                       ),
+
                       subtitle: Text(
                         '${match.field} • ${match.date} • ${match.time}',
                         style: TextStyle(
-                          fontSize: 17,
+                          fontSize: 20,
+                          fontWeight: FontWeight.w500,
                           color: const Color.fromARGB(255, 228, 199, 199),
                         ),
                       ),

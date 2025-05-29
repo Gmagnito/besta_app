@@ -41,7 +41,14 @@ class Locationbutton extends StatelessWidget {
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(40)),
         shadowColor: const Color.fromARGB(255, 86, 52, 179),
       ),
-      child: Text('$locationText'),
+      child: Text(
+        '$locationText',
+        style: TextStyle(
+          fontSize: 16,
+          color: Colors.white,
+          fontWeight: FontWeight.bold,
+        ),
+      ),
     );
   }
 }

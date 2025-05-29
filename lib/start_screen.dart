@@ -20,7 +20,7 @@ class ChoseScreen extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               Text(
-                'VELDU LIÐ!',
+                'DAGSKRÁ BESTU DEILDARINNAR',
                 style: TextStyle(fontSize: 30, color: Colors.white),
                 textAlign: TextAlign.center,
               ),

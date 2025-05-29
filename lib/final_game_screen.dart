@@ -16,7 +16,7 @@ class FinalGameScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             const Text(
-              'LEIKUR',
+              'LEIKUR Í BESTU DEILDINNI:',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 28,
@@ -31,14 +31,14 @@ class FinalGameScreen extends StatelessWidget {
                 ],
               ),
             ),
-            const SizedBox(height: 40),
+            SizedBox(height: 40),
             Card(
               margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 15),
               elevation: 8,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(15),
               ),
-              color: Colors.white, // Card background color
+              color: Colors.white,
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
                 child: Column(
@@ -118,6 +118,28 @@ class FinalGameScreen extends StatelessWidget {
                         fontSize: 18,
                         color: Colors.black54,
                       ),
+                    ),
+                    SizedBox(height: 60),
+                    ElevatedButton(
+                      onPressed: () {},
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(
+                          vertical: 10,
+                          horizontal: 40,
+                        ),
+                        backgroundColor: const Color.fromARGB(
+                          255,
+                          143,
+                          145,
+                          243,
+                        ),
+                        foregroundColor: Colors.white,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(40),
+                        ),
+                        shadowColor: const Color.fromARGB(255, 86, 52, 179),
+                      ),
+                      child: Text('KAUPA MIÐA'),
                     ),
                   ],
                 ),

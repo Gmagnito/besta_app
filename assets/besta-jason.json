@@ -24,14 +24,14 @@
     "Date": "6.4.2025",
     "Time": "19:15",
     "Hometeam": "Fram",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Lambhagavollurinn"
   },
   {
     "Date": "7.4.2025",
     "Time": "18:00",
     "Hometeam": "Vikingur R.",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Vikingsvollur"
   },
   {
@@ -52,7 +52,7 @@
     "Date": "13.4.2025",
     "Time": "17:00",
     "Hometeam": "Afturelding",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Malbikstodin ad Varma"
   },
   {
@@ -80,13 +80,13 @@
     "Date": "14.4.2025",
     "Time": "19:15",
     "Hometeam": "Stjarnan",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Samsungvollurinn"
   },
   {
     "Date": "23.4.2025",
     "Time": "18:00",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "Vestri",
     "PlayingField": "Akranesvollurin"
   },
@@ -114,7 +114,7 @@
   {
     "Date": "24.4.2025",
     "Time": "16:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "Fram",
     "PlayingField": "thorsvollur Vey"
   },
@@ -143,14 +143,14 @@
     "Date": "27.4.2025",
     "Time": "19:15",
     "Hometeam": "KR",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "AVIS vollurinn"
   },
   {
     "Date": "28.4.2025",
     "Time": "17:45",
     "Hometeam": "Stjarnan",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Samsungvollurinn"
   },
   {
@@ -170,14 +170,14 @@
   {
     "Date": "4.5.2025",
     "Time": "14:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "Vestri",
     "PlayingField": "thorsvollur Vey"
   },
   {
     "Date": "4.5.2025",
     "Time": "17:00",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "KA",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -220,7 +220,7 @@
     "Date": "10.5.2025",
     "Time": "19:00",
     "Hometeam": "KR",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "AVIS vollurinn"
   },
   {
@@ -234,7 +234,7 @@
     "Date": "10.5.2025",
     "Time": "19:15",
     "Hometeam": "Valur",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "N1-vollurinn Hlidarenda"
   },
   {
@@ -261,7 +261,7 @@
   {
     "Date": "18.5.2025",
     "Time": "14:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "KA",
     "PlayingField": "thorsvollur Vey"
   },
@@ -289,7 +289,7 @@
   {
     "Date": "19.5.2025",
     "Time": "19:15",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "FH",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -311,14 +311,14 @@
     "Date": "24.5.2025",
     "Time": "17:00",
     "Hometeam": "Valur",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "N1-vollurinn Hlidarenda"
   },
   {
     "Date": "24.5.2025",
     "Time": "19:15",
     "Hometeam": "Vikingur R.",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Vikingsvollur"
   },
   {
@@ -359,7 +359,7 @@
   {
     "Date": "29.5.2025",
     "Time": "16:15",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "FH",
     "PlayingField": "Hasteinsvollur"
   },
@@ -367,7 +367,7 @@
     "Date": "29.5.2025",
     "Time": "16:15",
     "Hometeam": "Breidablik",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Kopavogsvollur"
   },
   {
@@ -387,8 +387,8 @@
   {
     "Date": "1.6.2025",
     "Time": "17:00",
-    "Hometeam": "iA",
-    "Awayteam": "iBV",
+    "Hometeam": "IA",
+    "Awayteam": "IBV",
     "PlayingField": "ELKEM vollurinn"
   },
   {
@@ -429,7 +429,7 @@
   {
     "Date": "15.6.2025",
     "Time": "17:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "Breidablik",
     "PlayingField": "Hasteinsvollur"
   },
@@ -451,7 +451,7 @@
     "Date": "15.6.2025",
     "Time": "19:15",
     "Hometeam": "Afturelding",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Malbikstodin ad Varma"
   },
   {
@@ -471,7 +471,7 @@
   {
     "Date": "22.6.2025",
     "Time": "19:15",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "Stjarnan",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -492,7 +492,7 @@
   {
     "Date": "23.6.2025",
     "Time": "18:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "Afturelding",
     "PlayingField": "Hasteinsvollur"
   },
@@ -521,14 +521,14 @@
     "Date": "29.6.2025",
     "Time": "17:00",
     "Hometeam": "Fram",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Lambhagavollurinn"
   },
   {
     "Date": "29.6.2025",
     "Time": "17:00",
     "Hometeam": "Vestri",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Kerecisvollurinn"
   },
   {
@@ -555,7 +555,7 @@
   {
     "Date": "5.7.2025",
     "Time": "14:00",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "Fram",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -569,7 +569,7 @@
   {
     "Date": "5.7.2025",
     "Time": "16:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "Vikingur R.",
     "PlayingField": "Hasteinsvollur"
   },
@@ -590,14 +590,14 @@
   {
     "Date": "14.7.2025",
     "Time": "18:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "Stjarnan",
     "PlayingField": "Hasteinsvollur"
   },
   {
     "Date": "14.7.2025",
     "Time": "19:15",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "KR",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -633,7 +633,7 @@
     "Date": "27.7.2025",
     "Time": "14:00",
     "Hometeam": "Vestri",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Kerecisvollurinn"
   },
   {
@@ -654,7 +654,7 @@
     "Date": "27.7.2025",
     "Time": "19:15",
     "Hometeam": "KA",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Greifavollurinn"
   },
   {
@@ -674,7 +674,7 @@
   {
     "Date": "2.8.2025",
     "Time": "14:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "KR",
     "PlayingField": "Hasteinsvollur"
   },
@@ -688,7 +688,7 @@
   {
     "Date": "5.8.2025",
     "Time": "19:15",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "Valur",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -717,7 +717,7 @@
     "Date": "10.8.2025",
     "Time": "14:00",
     "Hometeam": "KA",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Greifavollurinn"
   },
   {
@@ -752,7 +752,7 @@
     "Date": "11.8.2025",
     "Time": "19:15",
     "Hometeam": "FH",
-    "Awayteam": "iA",
+    "Awayteam": "IA",
     "PlayingField": "Kaplakrikavollur"
   },
   {
@@ -765,7 +765,7 @@
   {
     "Date": "17.8.2025",
     "Time": "14:00",
-    "Hometeam": "iBV",
+    "Hometeam": "IBV",
     "Awayteam": "Valur",
     "PlayingField": "Hasteinsvollur"
   },
@@ -779,7 +779,7 @@
   {
     "Date": "17.8.2025",
     "Time": "18:00",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "Vikingur R.",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -814,7 +814,7 @@
   {
     "Date": "24.8.2025",
     "Time": "17:00",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "Breidablik",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -822,7 +822,7 @@
     "Date": "24.8.2025",
     "Time": "18:00",
     "Hometeam": "FH",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Kaplakrikavollur"
   },
   {
@@ -849,8 +849,8 @@
   {
     "Date": "31.8.2025",
     "Time": "14:00",
-    "Hometeam": "iBV",
-    "Awayteam": "iA",
+    "Hometeam": "IBV",
+    "Awayteam": "IA",
     "PlayingField": "Hasteinsvollur"
   },
   {
@@ -898,7 +898,7 @@
   {
     "Date": "14.9.2025",
     "Time": "14:00",
-    "Hometeam": "iA",
+    "Hometeam": "IA",
     "Awayteam": "Afturelding",
     "PlayingField": "ELKEM vollurinn"
   },
@@ -906,7 +906,7 @@
     "Date": "14.9.2025",
     "Time": "14:00",
     "Hometeam": "Breidablik",
-    "Awayteam": "iBV",
+    "Awayteam": "IBV",
     "PlayingField": "Kopavogsvollur"
   },
   {

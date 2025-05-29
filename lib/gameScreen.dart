@@ -26,7 +26,14 @@ class _GameScreenState extends State<GameScreen> {
         title: Row(
           children: [
             Image.asset('assets/${widget.chosenTeam}.png', width: 50),
-            Text('${widget.chosenTeam}'),
+            Text(
+              '${widget.chosenTeam}',
+              style: TextStyle(
+                fontSize: 30,
+                color: Colors.black,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
           ],
         ),
       ),

@@ -68,13 +68,14 @@ flutter:
     - assets\Valur.png
     - assets\Stjarnan.png
     - assets\Ka.png
-    - assets\iBV.png
-    - assets\iA.png
+    - assets\IBV.png
+    - assets\IA.png
     - assets\Fram.png
     - assets\Fh.png
     - assets\Breidablik.png
     - assets\Afturelding.png
     - assets\besta-jason.json
+    - assets\Besta.png
    
 
   # An image asset can refer to one or more resolution-specific "variants", see
